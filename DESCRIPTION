@@ -6,7 +6,7 @@ Authors@R: c(
     person("Kerem", "Tuncer", email = "kt2716@columbia.edu", role = "cre"),
     person("Donald Green", "Green", email = "dpg2110@columbia.edu", role = "aut"))
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: Experimentr contains all the datasets that were used in Knowing Better and its workbook.
+Description: Experimentr contains all the datasets that were used in Knowing Better and its R Companion.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
