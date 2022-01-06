@@ -5,27 +5,31 @@
 \alias{balcells}
 \title{Data from "Do transitional justice museums persuade visitors? Evidence from a field experiment"}
 \format{
-A tibble with 243 rows and 10 variables:
+A data frame with 264 rows and 14 variables:
 \describe{
-  \item{Year}{dbl Year price was recorded}
-  \item{Month}{dbl Month price was recorded. Ranges from 1-12 for January - December}
-  \item{`0-15`}{dbl denoting monthly price for the 0-15/lb. size class}
-  \item{`15-20`}{dbl denoting monthly price for the 15-20/lb. size class}
-  \item{`20-25`}{dbl denoting monthly price for the 20-25/lb. size class}
-  \item{`25-30`}{dbl denoting monthly price for the 25-30/lb. size class}
-  \item{`30-40`}{dbl denoting monthly price for the 30-40/lb. size class}
-  \item{`40-50`}{dbl denoting monthly price for the 40-50/lb. size class}
-  \item{`50-67`}{dbl denoting monthly price for the 50-67/lb. size class}
-  \item{Pieces}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+  \item{age}{Pre-treatment covariate denoting age in years}
+  \item{gender}{Pre-treatment covariate denoting gender}
+  \item{pre_ideology_1}{Pre-treatment covariate denoting political ideology}
+  \item{pre_economic_situation}{Pre-treatment covariate denoting economic situation}
+  \item{pre_political_interest}{Pre-treatment covariate denoting interest in politics}
+  \item{pre_religion_importance}{Pre-treatment covariate denoting religiosity}
+  \item{total_museums}{Pre-treatment covariate denoting visits to other museums}
+  \item{pre_conf_gov}{Pre-treatment covariate denoting trust in government}
+  \item{pre_inst_gov}{Pre-treatment covariate denoting satisfaction in government}
+  \item{pre_current_ineq}{Pre-treatment covariate denoting whether inequality is deemed a problem}
+  \item{pre_positive}{Pre-treatment covariate denoting positive emotions}
+  \item{pre_negative}{Pre-treatment covariate denoting negative emotions}
+  \item{treatmentgroup}{Treatment indicator. 1 = treatment, 0 = control}
+  \item{f3}{Indicating whether the follow-up survey was completed. 1 = completed, 0 = did not complete}
 }
 }
 \source{
-\url{https://www.pnas.org/content/114/7/1512/tab-figures-data}
+\url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3687658}
 }
 \usage{
 balcells
 }
 \description{
-Shrimp are classified by size, 0-15 shrimp per pound, 15-20 shrimp per pound, etc. A smaller number per pound indicates larger shrimp. Nominal prices are total monthly value of brown shrimp andings within size class divided by total monthly landings within the size class.
+This dataset is used in the exercises of Chapter 4 from the textbook.
 }
 \keyword{datasets}
