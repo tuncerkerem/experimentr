@@ -7,7 +7,7 @@
 \format{
 A data frame with 207 rows and 2 variables:
 \describe{
-  \item{treated}{Treatment indicator. 1 = treatment, 0 = control}
+  \item{treatment}{Treatment indicator. 1 = treatment, 0 = control}
   \item{CFS_after_5weeks}{Average crime reports in 5 weeks after treatment}
 }
 }

@@ -4,11 +4,11 @@
 #'
 #' @format A data frame with 193 rows and 7 variables:
 #' \describe{
-#'   \item{AttWhiteT0}{Attitude toward Whites pre-treatment}
-#'   \item{AttWhiteT1}{Attitude toward Whites post-treatment}
-#'   \item{AttArabT0}{Attitude toward Arabs pre-treatment}
-#'   \item{AttArabT1}{Attitude toward Arabs post-treatment}
-#'   \item{AttArabT2}{Attitude toward Arabs 4-6 weeks after treatment}
+#'   \item{white_t0}{Attitude toward Whites pre-treatment}
+#'   \item{white_t1}{Attitude toward Whites post-treatment}
+#'   \item{arab_t0}{Attitude toward Arabs pre-treatment}
+#'   \item{arab_t1}{Attitude toward Arabs post-treatment}
+#'   \item{arab_t2}{Attitude toward Arabs 4-6 weeks after treatment}
 #'   \item{iatT1N}{IAT toward Arabs}
 #'   \item{cond}{Treatment identifier. 1 = treatment, 0 = control}
 #' }

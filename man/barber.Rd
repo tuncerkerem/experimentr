@@ -8,8 +8,8 @@
 A data frame with 1300 rows and 3 variables:
 \describe{
   \item{Support}{Outcome variable denoting support. 1 = support policy, 0 = do not support policy}
-  \item{republican}{Pre-treatment covariate denoting denoting partisanship. 1 = Republican, 0 = Not Republican}
   \item{condition}{Condition indicator. 1 = liberal Trump, 2 = conservative Trump, 3 = GOP Leaders, 5 = control Republican}
+  \item{republican}{Pre-treatment covariate denoting denoting partisanship. 1 = Republican, 0 = Not Republican}
 }
 }
 \source{

@@ -7,11 +7,11 @@
 \format{
 A data frame with 30 rows and 5 variables:
 \describe{
+  \item{treatment}{Treatment indicator. 1 = treatment, 0 = control}
   \item{book}{Sales of books}
   \item{coffee}{Sales of bulk coffee, tea, or spices}
   \item{food}{Sales of food}
   \item{grandtotal}{Total of book, coffee, and food sales}
-  \item{treatment}{Treatment indicator. 1 = treatment, 0 = control}
 }
 }
 \source{
