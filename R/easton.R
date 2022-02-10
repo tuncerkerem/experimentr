@@ -7,6 +7,8 @@
 #'   \item{attractiveness_score}{Attractiveness of the shown profile according to the subject}
 #'   \item{age}{Age in years}
 #'   \item{male}{Gender. 1 = Male, 0 = Female}
+#'   \item{republican}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
+#'   \item{treatment_republican_profile}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
 #' }
 #' @source \url{https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/abs/democracy-of-dating-how-political-affiliations-shape-relationship-formation/79CD8CFC3E8862E586B2661E6C85AD89}
 "easton"
