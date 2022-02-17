@@ -10,6 +10,8 @@ A data frame with 725 rows and 5 variables:
   \item{attractiveness_score}{Attractiveness of the shown profile according to the subject}
   \item{age}{Age in years}
   \item{male}{Gender. 1 = Male, 0 = Female}
+  \item{republican}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
+  \item{treatment_republican_profile}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
 }
 }
 \source{
