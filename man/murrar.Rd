@@ -13,7 +13,7 @@ A data frame with 193 rows and 7 variables:
   \item{arab_t1}{Attitude toward Arabs post-treatment}
   \item{arab_t2}{Attitude toward Arabs 4-6 weeks after treatment}
   \item{iatT1N}{IAT toward Arabs}
-  \item{cond}{Treatment identifier. 1 = treatment, 0 = control}
+  \item{condition}{Treatment identifier. 1 = treatment, 0 = control}
 }
 }
 \source{

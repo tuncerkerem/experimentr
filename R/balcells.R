@@ -17,7 +17,7 @@
 #'   \item{pre_positive}{Pre-treatment covariate denoting positive emotions}
 #'   \item{pre_negative}{Pre-treatment covariate denoting negative emotions}
 #'   \item{treatmentgroup}{Treatment indicator. 1 = treatment, 0 = control}
-#'   \item{f3}{Indicating whether the follow-up survey was completed. 1 = completed, 0 = did not complete}
+#'   \item{f3}{Binary indicator of whether the follow-up survey was completed. 1 = completed, 0 = did not complete}
 #' }
 #' @source \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3687658}
 "balcells"

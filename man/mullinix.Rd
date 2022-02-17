@@ -7,6 +7,8 @@
 \format{
 A data frame with 2915 rows and 2 variables:
 \describe{
+  \item{Q9_Page_Submit}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED (also good practice to use the same naming convention across datasets, e.g. whether you capitalize words)}
+  \item{Q26_Page_Submit}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
   \item{FL_10_DO}{Condition indicator. L = Lethal, NL = Non-lethal}
   \item{Q30}{Outcome measure}
 }

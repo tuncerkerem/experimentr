@@ -10,6 +10,7 @@ A data frame with 102 rows and 4 variables:
   \item{treated}{Treatment indicator. 1 = treatment, 0 = control}
   \item{tcl_area_L_from2010to2017}{Hectares of forest loss 2010-2017}
   \item{tcl_area_L_from2001to2009}{Hectares of forest loss 2001-2009}
+  \item{change_score}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
 }
 }
 \source{
