@@ -5,7 +5,7 @@
 \alias{wrenlewis}
 \title{Data from "Formalizing land rights can reduce forest loss: Experimental evidence from Benin"}
 \format{
-A data frame with 102 rows and 4 variables:
+A data frame with 102 rows and 3 variables:
 \describe{
   \item{treated}{Treatment indicator. 1 = treatment, 0 = control}
   \item{tcl_area_L_from2010to2017}{Hectares of forest loss 2010-2017}

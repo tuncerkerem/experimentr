@@ -2,7 +2,7 @@
 #'
 #' This dataset is used in the exercises of Chapter 4 from the textbook.
 #'
-#' @format A data frame with 102 rows and 4 variables:
+#' @format A data frame with 102 rows and 3 variables:
 #' \describe{
 #'   \item{treated}{Treatment indicator. 1 = treatment, 0 = control}
 #'   \item{tcl_area_L_from2010to2017}{Hectares of forest loss 2010-2017}
