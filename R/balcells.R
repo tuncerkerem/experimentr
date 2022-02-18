@@ -1,7 +1,7 @@
 #' Data from "Do transitional justice museums persuade visitors? Evidence from a field experiment"
 #'
 #' This dataset is used in the exercises of Chapter 4 from the textbook.
-#'
+#' @source Balcells, Laia, et al. “Do Transitional Justice Museums Persuade Visitors? Evidence from a Field Experiment.” The Journal of Politics, vol. 84, no. 1, 2022, pp. 496–510., https://doi.org/10.1086/714765
 #' @format A data frame with 264 rows and 14 variables:
 #' \describe{
 #'   \item{age}{Pre-treatment covariate denoting age in years}
@@ -19,5 +19,4 @@
 #'   \item{treatmentgroup}{Treatment indicator. 1 = treatment, 0 = control}
 #'   \item{f3}{Binary indicator of whether the follow-up survey was completed. 1 = completed, 0 = did not complete}
 #' }
-#' @source Balcells, Laia, et al. “Do Transitional Justice Museums Persuade Visitors? Evidence from a Field Experiment.” The Journal of Politics, vol. 84, no. 1, 2022, pp. 496–510., https://doi.org/10.1086/714765.
 "balcells"
