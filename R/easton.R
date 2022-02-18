@@ -7,8 +7,8 @@
 #'   \item{attractiveness_score}{Attractiveness of the shown profile according to the subject}
 #'   \item{age}{Age in years}
 #'   \item{male}{Gender. 1 = Male, 0 = Female}
-#'   \item{republican}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
-#'   \item{treatment_republican_profile}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
+#'   \item{republican}{Political orientation. 1 = Republican, 0 = Democrat}
+#'   \item{treatment_republican_profile}{1 = A profile of a Republican was shown, 0 = A profile of a Democrat was shown}
 #' }
 #' @source Easton, Matthew J., and John B. Holbein. “The Democracy of Dating: How Political Affiliations Shape Relationship Formation.” Journal of Experimental Political Science, vol. 8, no. 3, 2021, pp. 260–272., doi:10.1017/XPS.2020.21.
 "easton"

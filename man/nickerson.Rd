@@ -8,9 +8,7 @@
 A data frame with 956 rows and 2 variables:
 \describe{
   \item{treatment}{Treatment indicator denoting whether participant spoke with canvassers about the upcoming election or about recycling}
-  \item{house_contacted}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
   \item{voted02p}{Whether the participant voted in the elections}
-  \item{voted00}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
 }
 }
 \source{
