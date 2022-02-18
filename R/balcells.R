@@ -19,5 +19,5 @@
 #'   \item{treatmentgroup}{Treatment indicator. 1 = treatment, 0 = control}
 #'   \item{f3}{Binary indicator of whether the follow-up survey was completed. 1 = completed, 0 = did not complete}
 #' }
-#' @source \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3687658}
+#' @source Balcells, Laia, et al. “Do Transitional Justice Museums Persuade Visitors? Evidence from a Field Experiment.” The Journal of Politics, vol. 84, no. 1, 2022, pp. 496–510., https://doi.org/10.1086/714765.
 "balcells"
