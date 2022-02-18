@@ -15,7 +15,7 @@ A data frame with 30 rows and 5 variables:
 }
 }
 \source{
-\url{https://springerplus.springeropen.com/articles/10.1186/s40064-016-2303-5}
+McGrath, Mary C., et al. “Chocolate Scents and Product Sales: A Randomized Controlled Trial in a Canadian Bookstore and Café.” SpringerPlus, vol. 5, no. 1, 2016, https://doi.org/10.1186/s40064-016-2303-5.
 }
 \usage{
 mcgrath

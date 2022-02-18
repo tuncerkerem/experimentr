@@ -7,4 +7,5 @@
 #'   \item{group}{Treatment condition. 1 = treatment, 0 = control}
 #'   \item{outcome}{Observed outcome}
 #' }
+#' @source Rahmani, Bardia. “Practicum Experiment” Columbia University, 2020.
 "youtube"

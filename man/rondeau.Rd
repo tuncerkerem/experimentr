@@ -12,7 +12,7 @@ A data frame with 3000 rows and 2 variables:
 }
 }
 \source{
-\url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1136440}
+Rondeau, Daniel, and John A. List. “Matching and Challenge Gifts to Charity: Evidence from Laboratory and Natural Field Experiments.” SSRN Electronic Journal, 23 May 2008, https://doi.org/10.2139/ssrn.1136440.
 }
 \usage{
 rondeau

@@ -12,5 +12,5 @@
 #'   \item{iatT1N}{IAT toward Arabs}
 #'   \item{condition}{Treatment identifier. 1 = treatment, 0 = control}
 #' }
-#' @source \url{https://journals.sagepub.com/doi/abs/10.1177/1368430216682350?journalCode=gpia}
+#' @source Murrar, Sohad, and Markus Brauer. “Entertainment-Education Effectively Reduces Prejudice.” Group Processes &amp; Intergroup Relations, vol. 21, no. 7, 2017, pp. 1053–1077., https://doi.org/10.1177/1368430216682350.
 "murrar"

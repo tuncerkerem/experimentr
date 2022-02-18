@@ -9,5 +9,7 @@
 #'   \item{two}{Outcome variable denoting second bounce time}
 #'   \item{three}{Outcome variable denoting third bounce time}
 #'   \item{pre}{Pre-treatment covariate denoting pre-test bounce time}
+#'
 #' }
+#' @source Rutherford, Kylan. “Experiment Practicum.” Columbia University, 2020.
 "batteries"

@@ -10,5 +10,5 @@
 #'   \item{republican}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
 #'   \item{treatment_republican_profile}{MISSING DESCRIPTION OR VARIABLE NOT EXCLUDED}
 #' }
-#' @source \url{https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/abs/democracy-of-dating-how-political-affiliations-shape-relationship-formation/79CD8CFC3E8862E586B2661E6C85AD89}
+#' @source Easton, Matthew J., and John B. Holbein. “The Democracy of Dating: How Political Affiliations Shape Relationship Formation.” Journal of Experimental Political Science, vol. 8, no. 3, 2021, pp. 260–272., doi:10.1017/XPS.2020.21.
 "easton"

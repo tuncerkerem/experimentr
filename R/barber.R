@@ -8,5 +8,5 @@
 #'   \item{condition}{Condition indicator. 1 = liberal Trump, 2 = conservative Trump, 3 = GOP Leaders, 5 = control Republican}
 #'   \item{republican}{Pre-treatment covariate denoting denoting partisanship. 1 = Republican, 0 = Not Republican}
 #' }
-#' @source \url{https://www.cambridge.org/core/journals/american-political-science-review/article/abs/does-party-trump-ideology-disentangling-party-and-ideology-in-america/B5BAD0AE947BD3CF18D51D399263C8D3}
+#' @source BARBER, MICHAEL, and JEREMY C. POPE. “Does Party Trump Ideology? Disentangling Party and Ideology in America.” American Political Science Review, vol. 113, no. 1, 2019, pp. 38–54., doi:10.1017/S0003055418000795.
 "barber"

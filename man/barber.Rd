@@ -13,7 +13,7 @@ A data frame with 1300 rows and 3 variables:
 }
 }
 \source{
-\url{https://www.cambridge.org/core/journals/american-political-science-review/article/abs/does-party-trump-ideology-disentangling-party-and-ideology-in-america/B5BAD0AE947BD3CF18D51D399263C8D3}
+BARBER, MICHAEL, and JEREMY C. POPE. “Does Party Trump Ideology? Disentangling Party and Ideology in America.” American Political Science Review, vol. 113, no. 1, 2019, pp. 38–54., doi:10.1017/S0003055418000795.
 }
 \usage{
 barber

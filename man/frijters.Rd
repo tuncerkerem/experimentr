@@ -13,7 +13,7 @@ A data frame with 214 rows and 3 variables:
 }
 }
 \source{
-\url{https://onlinelibrary.wiley.com/doi/10.1002/hec.3901}
+Frijters, Paul, et al. “Roommate Effects in Health Outcomes.” Health Economics, vol. 28, no. 8, 2019, pp. 998–1034., https://doi.org/10.1002/hec.3901.
 }
 \usage{
 frijters

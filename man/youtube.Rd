@@ -11,6 +11,9 @@ A data frame with 30 rows and 2 variables:
   \item{outcome}{Observed outcome}
 }
 }
+\source{
+Rahmani, Bardia. “Practicum Experiment” Columbia University, 2020.
+}
 \usage{
 youtube
 }

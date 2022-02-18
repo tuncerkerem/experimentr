@@ -24,7 +24,7 @@ A data frame with 264 rows and 14 variables:
 }
 }
 \source{
-Balcells, Laia, et al. “Do Transitional Justice Museums Persuade Visitors? Evidence from a Field Experiment.” The Journal of Politics, vol. 84, no. 1, 2022, pp. 496–510., https://doi.org/10.1086/714765
+Balcells, Laia, et al. “Do Transitional Justice Museums Persuade Visitors? Evidence from a Field Experiment.” The Journal of Politics, vol. 84, no. 1, 2022, pp. 496–510., https://doi.org/10.1086/714765.
 }
 \usage{
 balcells

@@ -14,7 +14,7 @@ A data frame with 102 rows and 4 variables:
 }
 }
 \source{
-\url{https://pubmed.ncbi.nlm.nih.gov/32637624/}
+Wren-Lewis, Liam et al. “Formalizing land rights can reduce forest loss: Experimental evidence from Benin.” Science advances vol. 6,26 eabb6914. 26 Jun. 2020, doi:10.1126/sciadv.abb6914
 }
 \usage{
 wrenlewis

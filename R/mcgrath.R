@@ -10,5 +10,5 @@
 #'   \item{food}{Sales of food}
 #'   \item{grandtotal}{Total of book, coffee, and food sales}
 #' }
-#' @source \url{https://springerplus.springeropen.com/articles/10.1186/s40064-016-2303-5}
+#' @source McGrath, Mary C., et al. “Chocolate Scents and Product Sales: A Randomized Controlled Trial in a Canadian Bookstore and Café.” SpringerPlus, vol. 5, no. 1, 2016, https://doi.org/10.1186/s40064-016-2303-5.
 "mcgrath"

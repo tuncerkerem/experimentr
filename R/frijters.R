@@ -8,5 +8,5 @@
 #'   \item{Past_BMI}{Participant's BMI at baseline}
 #'   \item{Current_BMI}{Participant's BMI after living with roommate for one year}
 #' }
-#' @source \url{https://onlinelibrary.wiley.com/doi/10.1002/hec.3901}
+#' @source Frijters, Paul, et al. “Roommate Effects in Health Outcomes.” Health Economics, vol. 28, no. 8, 2019, pp. 998–1034., https://doi.org/10.1002/hec.3901.
 "frijters"

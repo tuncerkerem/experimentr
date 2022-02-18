@@ -17,7 +17,7 @@ A data frame with 123 rows and 7 variables:
 }
 }
 \source{
-\url{https://www.sciencedirect.com/science/article/abs/pii/S0022103112000297}
+Bruneau, Emile G., and Rebecca Saxe. “The Power of Being Heard: The Benefits of ‘Perspective-Giving’ in the Context of Intergroup Conflict.” Journal of Experimental Social Psychology, vol. 48, no. 4, 2012, pp. 855–866., https://doi.org/10.1016/j.jesp.2012.02.017.
 }
 \usage{
 bruneau

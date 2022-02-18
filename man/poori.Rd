@@ -11,6 +11,9 @@ A data frame with 30 rows and 2 variables:
   \item{group}{Treatment condition. 1 = treatment, 0 = control}
 }
 }
+\source{
+Yadav, Monika. “Practicum Experiment: Analysis.” Columbia University, 2020.
+}
 \usage{
 poori
 }
