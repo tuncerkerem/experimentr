@@ -1,11 +1,11 @@
-Package: experimentr
+Package: experimentr/Users/keremtuncer/Desktop/GitHub/experimentr/DESCRIPTION
 Type: Package
-Title: An R Package Containing the Datasets Used in Knowing Better: An Introduction to Social Science Experiments
+Title: An R Package Containing the Datasets Used in Social Science Experiments: A Hands-on Introduction.
 Version: 0.1.0
 Authors@R: c(
     person("Kerem", "Tuncer", email = "kt2716@columbia.edu", role = "cre"),
     person("Donald Green", "Green", email = "dpg2110@columbia.edu", role = "aut"))
-Description: This package contains all the datasets that were used in Knowing Better and its R Companion.
+Description: This package contains all the datasets that were used in Social Science Experiments: A Hands-on Introduction.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
