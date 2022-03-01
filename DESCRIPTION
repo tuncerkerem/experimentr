@@ -1,6 +1,6 @@
 Package: experimentr
 Type: Package
-Title: An R Package Containing the Datasets Used in Social Science Experiments: A Hands-On Introduction
+Title: Datasets Used in Social Science Experiments: A Hands-on Introduction
 Version: 0.1.0
 Authors@R: c(
     person("Kerem", "Tuncer", email = "kt2716@columbia.edu", role = "cre"),
