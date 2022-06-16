@@ -13,6 +13,10 @@ Package Authors:
 Reference:
 
   - Green (2022) “Social Science Experiments: A Hands-On Introduction” *Oxford University Press*
+  
+Other Materials:
+
+  -The official repository for all materials pertaining to the textbook can be found [here](https://osf.io/b78je/).
 
 ## Installation Instructions:
 
