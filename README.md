@@ -1,7 +1,11 @@
-Experimentr: An R package containing the datasets for Prof. Donald Green's textbook Social Science Experiments: A Hands-On Introduction
+Experimentr
 ================
 
-Authors:
+Description:
+
+ - An R package containing the datasets for Prof. Donald Green's textbook Social Science Experiments: A Hands-On Introduction
+
+Package Authors:
 
   - [Donald P Green](http://www.donaldgreen.com/)
   - [Kerem Tuncer](https://github.com/tuncerkerem)
